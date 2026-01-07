@@ -1,16 +1,46 @@
-## Hi there 👋
+## 👋 Hi! I'm Andrés
 
-<!--
-**andressparrarlst-beep/andressparrarlst-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **University student in Systems and Computer Engineering**  
+💻 Passionate about software development, cybersecurity, and cloud computing
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🔭 What I'm currently working on
+- Polishing and strengthening my skills in **Java** and **Spring Framework**
+- Improving clean code practices and software architecture knowledge
+
+---
+
+### 🌱 What I'm currently learning
+- 🛡️ **Ethical Hacking** (pentesting, vulnerability analysis, cybersecurity fundamentals)
+- ☁️ **AWS** (cloud services, deployment, and infrastructure concepts)
+
+---
+
+### 🚀 Interests
+- Backend Development
+- Cybersecurity
+- Cloud Computing
+- Software Architecture
+
+---
+
+### 💬 Ask me about
+- Java & Spring
+- Programming fundamentals
+- Introductory cybersecurity concepts
+- University life in Systems Engineering
+
+---
+
+Thanks for visiting my profile 😄  
+Feel free to explore my repositories!
