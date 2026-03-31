@@ -1,7 +1,7 @@
-## 👋 Hi! I'm Andrés
+## Hi! I'm Andrés
 
-🎓 **University student in Systems and Computer Engineering**  
-💻 Passionate about software development, cybersecurity, and cloud computing
+ **University student in Systems and Computer Engineering**  
+ Passionate about software development, cybersecurity, and cloud computing
 
 ---
 
@@ -14,33 +14,23 @@
 
 ---
 
-### 🔭 What I'm currently working on
+###  What I'm currently working on
 - Polishing and strengthening my skills in **Java** and **Spring Framework**
 - Improving clean code practices and software architecture knowledge
 
 ---
 
-### 🌱 What I'm currently learning
-- 🛡️ **Ethical Hacking** (pentesting, vulnerability analysis, cybersecurity fundamentals)
+###  What I'm currently learning
 - ☁️ **AWS** (cloud services, deployment, and infrastructure concepts)
 
 ---
 
 ### 🚀 Interests
 - Backend Development
-- Cybersecurity
 - Cloud Computing
 - Software Architecture
 
 ---
 
-### 💬 Ask me about
-- Java & Spring
-- Programming fundamentals
-- Introductory cybersecurity concepts
-- University life in Systems Engineering
-
----
-
-Thanks for visiting my profile 😄  
+Thanks for visiting my profile   
 Feel free to explore my repositories!
